@@ -19,8 +19,7 @@ I'm passionate about web development and currently learning to become a Full Sta
 
 `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Node.js` `Express.js` `MongoDB` `Git` `GitHub`
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/K A Mrul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ka_mrul09) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KA Mrul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MD saikaT) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kamrul hasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikat987600@gmail.com) 
+
 
 <!-- Snake Game Repo View -->
 
